@@ -1,5 +1,7 @@
 # yt2ogg
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/yt2ogg.svg)](https://greenkeeper.io/)
+
 > YouTube to OGG
 
 ## Build Setup
